@@ -16,7 +16,6 @@ module.exports = [
             "**/vite.config.ts",
             "**/.eslintrc.cjs",
             "**/site/**",
-            "apps/next-12/**",
             "**/.yarnrc.yml",
             "**/.eslintrc.*js",
             "**/*.config.*js",
